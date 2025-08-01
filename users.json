@@ -1,0 +1,34 @@
+[
+  {
+    "name": "DD",
+    "age": "18",
+    "gender": "Male",
+    "address": "mutyalampaddu,Vijayawada AP",
+    "contact": "8977267233",
+    "code": "12345"
+  },
+  {
+    "name": "LL",
+    "age": "25",
+    "gender": "Female",
+    "address": "mutyalampaddu,Vijayawada AP",
+    "contact": "8977267238",
+    "code": "12345"
+  },
+  {
+    "name": "Sudeep",
+    "age": "16",
+    "gender": "Male",
+    "address": "25-1-25,kk poor , usa",
+    "contact": "9958158537",
+    "code": "12345"
+  },
+  {
+    "name": "lalith",
+    "age": "25",
+    "gender": "Male",
+    "address": "mutyalampaddu,Vijayawada AP",
+    "contact": "9618718208",
+    "code": "12345"
+  }
+]
